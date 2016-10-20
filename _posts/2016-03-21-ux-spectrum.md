@@ -1,7 +1,7 @@
 ---
-published: true
+layout: post
+title: UX Spectrum
 ---
-## UX Spectrum
 
 A great user experience is a result of an orchestrated team work.
 
